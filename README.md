@@ -1,6 +1,6 @@
 # Harmonic_Rain
 
-These animations were built as demos for my Fall 2018 first year vibrations and Waves lectures at the University of Bath. (You may need to adjust the location of your ffmpeg executable)
+These animations were built as demos for my Fall 2018 first year Vibrations and Waves lectures at the University of Bath. (You may need to adjust the location of your ffmpeg executable)
 
 Harmonic_Rain.ipynb:
 This is just a quick matplotlib demo for animating fill_between plots demonstrating Fourier synthesis of a square wave.
