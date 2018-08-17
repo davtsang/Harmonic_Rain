@@ -8,6 +8,5 @@ It generates harmonic_rain.mp4
 
 Instrument_Harmonics.ipynb:
 This is a demo for Fourier spectral analysis of different instrument recordings, including the audio from the recordings. It is meant to be used with a worksheet/course notes.
-
 It generates spec_analysis_audio.mp4
 
